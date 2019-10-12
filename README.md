@@ -4,6 +4,8 @@
 
 **Built with love during the SRM IOT Hackathon**
 
+### Using a self-made [Neural Network](https://github.com/SidJain1412/HornOKPlease/blob/master/ImageRecognition/Final/TrainCar.ipynb) (made with Keras) to detect from one vehicle when another vehicle is in front of it, along with sensor information to avoid collision.
+
 ### Abstract: Decrease commute times as well as enable multi-vehicle control by a single driver using GPS and Ultrasonic sensors.
 
 This project has 3 major use cases:
